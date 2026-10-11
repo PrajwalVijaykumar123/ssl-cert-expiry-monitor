@@ -1,0 +1,5 @@
+# One host or host:port per line. Default port is 443. Lines starting with
+# # are comments. Copy this file to domains.txt and edit for your own list.
+
+github.com
+your-internal-service.example.com:8443

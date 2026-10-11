@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Local/real target lists and generated reports - not committed
+domains.txt
+report.json
+*.pem
